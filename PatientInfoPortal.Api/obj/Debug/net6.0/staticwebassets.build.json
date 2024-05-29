@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nbsoWEowXM8kswMMB4aa3fduJSax6OSoSXc4v7A7RQk=",
+  "Source": "PatientInfoPortal.Api",
+  "BasePath": "_content/PatientInfoPortal.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
